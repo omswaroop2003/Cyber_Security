@@ -1,0 +1,24 @@
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #057ef8;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: '/image.jpg';
+  background-size: cover;
+}
