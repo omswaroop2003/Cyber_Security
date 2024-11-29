@@ -18,8 +18,6 @@ const ScanForm = () => {
             setResult(null);
         }
     };
-    
-
     return (
         <div className="scan-form">
             <h1>Port Scanner</h1>
